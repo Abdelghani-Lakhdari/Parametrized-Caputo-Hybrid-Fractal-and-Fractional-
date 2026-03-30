@@ -11,7 +11,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 
 # ==========================================
-# 1. DEFINITION OF THEOREM 3.1
+# 1. DEFINITION OF THEOREM 2
 # ==========================================
 def calculate_theorem_3_1(gamma, nu, s, p, r1=0, r2=1):
     q = p / (p - 1)
